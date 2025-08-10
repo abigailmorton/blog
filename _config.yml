@@ -1,0 +1,10 @@
+title: Abby’s Blog
+description: Notes, links, and experiments
+url: https://blog.cloverdalelane.com
+author: Abby
+# Pick a built-in theme to avoid Gemfile:
+theme: minima
+
+# Optional: clean permalinks and timezone
+timezone: America/Chicago
+permalink: /:year/:month/:day/:title/
